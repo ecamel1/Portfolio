@@ -1,0 +1,31 @@
+.App {
+  text-align: left;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App .content {
+  padding: 5px 25px;
+}
+
+.navbar {
+  float: left;
+  padding: 5px 25px;
+  display: flex;
+  align-items: center;
+  background-color: #61dafb;
+}
+
+.navbar .links {
+  margin-left: auto;
+  color: inherit;
+  text-decoration: inherit;
+}
