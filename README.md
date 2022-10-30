@@ -1,1 +1,1 @@
-https://ecamel1.github.io/Portfolio/
+https://ecamel1.github.io/
