@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.fbbf5d2d.css",
-    "main.js": "/Portfolio/static/js/main.8cd13348.js",
+    "main.js": "/Portfolio/static/js/main.c7dd3106.js",
     "static/media/EmmaCamelo_Resume_2022 - Copy.pdf": "/Portfolio/static/media/EmmaCamelo_Resume_2022 - Copy.18208603f80a4d74a86d.pdf",
     "index.html": "/Portfolio/index.html",
     "main.fbbf5d2d.css.map": "/Portfolio/static/css/main.fbbf5d2d.css.map",
-    "main.8cd13348.js.map": "/Portfolio/static/js/main.8cd13348.js.map"
+    "main.c7dd3106.js.map": "/Portfolio/static/js/main.c7dd3106.js.map"
   },
   "entrypoints": [
     "static/css/main.fbbf5d2d.css",
-    "static/js/main.8cd13348.js"
+    "static/js/main.c7dd3106.js"
   ]
 }
